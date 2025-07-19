@@ -1,0 +1,30 @@
+# Web与API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# 图形界面 - 使用兼容的版本组合
+pyqt5>=5.15.11
+
+
+# AI与LLM
+openai
+langchain
+langchain-community
+langchain-openai
+
+# 语音处理
+elevenlabs
+pyaudio
+sounddevice
+
+# 数据库
+neo4j
+langchain-neo4j
+
+# Web自动化
+playwright
+
+# 通用工具
+python-dotenv
+pydantic
