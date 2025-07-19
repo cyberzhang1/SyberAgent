@@ -1,12 +1,22 @@
-### SyberAgent 项目
-一个基于大语言模型（LLM）的智能代理框架，能够处理语音和执行基本工具。
+### SyberAgent - 下一代PC本地自动化多智能体框架
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![CI Status](https://github.com/cyberzhang1/SyberAgent/actions/workflows/ci.yml/badge.svg)](https://github.com/cyberzhang1/SyberAgent/actions)
+[![Documentation Status](https://img.shields.io/badge/docs-available-brightgreen)](https://cyberzhang1.github.io/SyberAgent/)
 
-✨ 功能亮点
-语音处理集成
+SyberAgent 是一个革命性的PC本地自动化框架，采用多智能体(Multi-Agent)架构，实现复杂工作流的自主协作执行。无需云端依赖，所有数据处理均在本地完成，保障隐私安全。
 
-核心LLM处理器
 
-可扩展的代理工具集
+
+🛡️ 100%本地执行 - 敏感数据永不离开您的设备
+
+🤖 智能体协作网络 - 多个专业智能体协同解决复杂问题
+
+⚡ 实时桌面控制 - 无缝集成键盘/鼠标/界面自动化
+
+🧩 模块化扩展 - 轻松添加自定义智能体和技能
+
+📊 自主决策引擎 - 基于LLM的任务分解与动态规划
 
 
 ###
